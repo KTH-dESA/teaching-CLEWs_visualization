@@ -1,74 +1,74 @@
-tech_code,tech_name,colour,
-BAG,Bagasse,OliveDrab,
-BEF,Cattle meat,orange red,
-BYPCRP002,By-product of Crop 002 / Bagasse (Mt),OliveDrab3,
-CRP001,Maize,goldenrod1,
-CRP002,Sugarcane,yellow2,
-CTL,Cattle Heads,orange red,
-DSL,Diesel,IndianRed3,
-ELC001,Electricity to transmission / after generation,CadetBlue3,
-ELC002,Electricity demand,CadetBlue,
-FORSTK,Forest stock,sienna3,
-GAS,Natural Gas,SteelBlue4,
-GSL,Gasoline,brown2,
-HYD,Hydro energy,DeepSkyBlue1,
-LND,Land resource,green,
-LND001,Land resource demand,green,
-LNDAGR,Agricultural land,DarkOliveGreen1,
-LNDCRP,Cropland,DarkOliveGreen3,
-PRDCRP002,Sugar,azure2,
-SOL,Solar energy,yellow,
-WAT001,Water to supply,SteelBlue4,
-WAT002,Water demand,SteelBlue3,
-WATAGR,Water for agriculture,DarkSeaGreen2,
-WATELC,Water for electricity generation,aquamarine3,
-WATEVT,Evapotranspiration,turquoise2,
-WATGRD,Groundwater recharge,blue4,
-WATPRC,Precipitation,blue,
-WATSUR,Run-off (surface water),blue2,
-WND,Wind energy,MediumPurple3,
-WOO,Fuelwood,sienna3,
-AGRCRP001,Agricultural land for crop cultivation,DarkOliveGreen3,
-AGRPST001,Agricultural land with pastures - high productivity,khaki2,
-AGRPST002,Agricultural land with pastures - low productivity,khaki3,
-DUMBEF001,Dummy Cattle meat,RosyBrown1,
-DUMBLT,Dummy Land Resource,IndianRed1,
-DUMCRP001,Dummy Maize,IndianRed2,
-DUMELC002,Dummy Electricity,firebrick1,
-DUMPRDCRP002,Dummy Sugar,firebrick2,
-DUMWAT002,Dummy Water,firebrick3,
-DUMWOO001,Dummy Fuelwood,firebrick4,
-FORWOO001,Wood from forests,sienna3,
-IMPDSL001,Diesel imports,IndianRed4,
-IMPGSL001,Gasoline imports,brown2,
-LNDAGR001,Land for agriculture,DarkOliveGreen1,
-LNDBLT001,Built-up land,grey88,
-LNDCRP001I,Maize under irrigation,DarkGoldenrod3,
-LNDCRP001R,Maize rainfed,goldenrod1,
-LNDCRP002I,Sugarcane under irrigation,yellow3,
-LNDCRP002R,Sugarcane rainfed,yellow2,
-LNDFOR001,Land with Forests,ForestGreen,
-LNDOTH001,Other land,PaleGoldenrod,
-MINGAS001,Gas extraction,SteelBlue3,
-MINHYD001,Hydropower,DeepSkyBlue1,
-MINLND001,Land Resource,green,
-MINPRC001,Precipitation,blue,
-MINSOL001,Solar energy,goldenrod1,
-MINWND001,Wind energy,MediumPurple3,
-PRCBAG001,Bagasse accounting,OliveDrab3,
-PRCCRP002,Sugar processing plant,azure2,
-PRCCTL001,Meat processing pland,orange red,
-PWRBIO001,Biomass power plant,OliveDrab,
-PWRDSL001,Diesel power plant,IndianRed4,
-PWRGAS001,Natural gas power plant,SteelBlue3,
-PWRHYD001,Hydropower plant,DeepSkyBlue1,
-PWRSOL001,Distributed solar PV,goldenrod1,
-PWRTRN001,Electricity transmission and distribution,CadetBlue,
-PWRWND001,Wind farm,MediumPurple3,
-WATAGR001,Water for agriculture,DarkSeaGreen2,
-WATELC001,water for electricity generation,aquamarine3,
-WATEVT001,Evapotranspiration,turquoise2,
-WATGRD001,Groundwater recharge,blue4,
-WATSUR001,Run-off (surface water),blue2,
-WATTRN001,Water supply system,SteelBlue3,
-;,,,
+tech_code,tech_name,colour
+BAG,Bagasse,OliveDrab
+BEF,Cattle meat,orange red
+BYPCRP002,By-product of Crop 002 / Bagasse (Mt),OliveDrab3
+CRP001,Maize,green
+CRP002,Sugarcane,yellow2
+CTL,Cattle Heads,orange red
+DSL,Diesel,IndianRed3
+ELC001,Electricity to transmission / after generation,CadetBlue3
+ELC002,Electricity demand,CadetBlue
+FORSTK,Forest stock,sienna3
+GAS,Natural Gas,SteelBlue4
+GSL,Gasoline,brown2
+HYD,Hydro energy,DeepSkyBlue1
+LND,Land resource,green
+LND001,Land resource demand,green
+LNDAGR,Agricultural land,DarkOliveGreen1
+LNDCRP,Cropland,DarkOliveGreen3
+PRDCRP002,Sugar,azure2
+SOL,Solar energy,yellow
+WAT001,Water to supply,SteelBlue4
+WAT002,Water demand,SteelBlue3
+WATAGR,Water for agriculture,DarkSeaGreen2
+WATELC,Water for electricity generation,aquamarine3
+WATEVT,Evapotranspiration,turquoise2
+WATGRD,Groundwater recharge,blue4
+WATPRC,Precipitation,blue
+WATSUR,Run-off (surface water),blue2
+WND,Wind energy,MediumPurple3
+WOO,Fuelwood,sienna3
+AGRCRP001,Agricultural land for crop cultivation,DarkOliveGreen3
+AGRPST001,Agricultural land with pastures - high productivity,blue
+AGRPST002,Agricultural land with pastures - low productivity,blue
+DUMBEF001,Dummy Cattle meat,RosyBrown1
+DUMBLT,Dummy Land Resource,IndianRed1
+DUMCRP001,Dummy Maize,IndianRed2
+DUMELC002,Dummy Electricity,firebrick1
+DUMPRDCRP002,Dummy Sugar,firebrick2
+DUMWAT002,Dummy Water,firebrick3
+DUMWOO001,Dummy Fuelwood,firebrick4
+FORWOO001,Wood from forests,sienna3
+IMPDSL001,Diesel imports,IndianRed4
+IMPGSL001,Gasoline imports,brown2
+LNDAGR001,Land for agriculture,DarkOliveGreen1
+LNDBLT001,Built-up land,grey
+LNDCRP001I,Maize under irrigation,green
+LNDCRP001R,Maize rainfed,green
+LNDCRP002I,Sugarcane under irrigation,grey
+LNDCRP002R,Sugarcane rainfed,grey
+LNDFOR001,Land with Forests,ForestGreen
+LNDOTH001,Other land,PaleGoldenrod
+MINGAS001,Gas extraction,SteelBlue3
+MINHYD001,Hydropower,grey
+MINLND001,Land Resource,green
+MINPRC001,Precipitation,blue
+MINSOL001,Solar energy,grey
+MINWND001,Wind energy,MediumPurple3
+PRCBAG001,Bagasse accounting,OliveDrab3
+PRCCRP002,Sugar processing plant,azure2
+PRCCTL001,Meat processing pland,orange red
+PWRBIO001,Biomass power plant,goldenrod1
+PWRDSL001,Diesel power plant,IndianRed4
+PWRGAS001,Natural gas power plant,SteelBlue3
+PWRHYD001,Hydropower plant,DeepSkyBlue1
+PWRSOL001,Distributed solar PV,goldenrod1
+PWRTRN001,Electricity transmission and distribution,CadetBlue
+PWRWND001,Wind farm,MediumPurple3
+WATAGR001,Water for agriculture,DarkSeaGreen2
+WATELC001,water for electricity generation,aquamarine3
+WATEVT001,Evapotranspiration,turquoise2
+WATGRD001,Groundwater recharge,blue4
+WATSUR001,Run-off (surface water),blue2
+WATTRN001,Water supply system,SteelBlue3
+;,,
