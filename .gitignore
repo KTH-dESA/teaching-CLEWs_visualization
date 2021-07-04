@@ -1,8 +1,8 @@
 # OSeMOSYS results files and plots
-results/*
+#results/*
 temp.txt
-*.pdf
-*.png
+#*.pdf
+#*.png
 
 
 #drin and drina
