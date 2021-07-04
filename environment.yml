@@ -1,0 +1,13 @@
+name: teachclew
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - numpy
+  - pip
+  - plotly
+  - pandas
+  - ipywidgets
+  - jupyter_contrib_nbextensions
+  - glpk
+  - matplotlib
