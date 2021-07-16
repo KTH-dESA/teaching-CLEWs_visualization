@@ -1,74 +1,74 @@
 tech_code,tech_name,colour
-BAG,Bagasse,OliveDrab
-BEF,Cattle meat,orange red
-BYPCRP002,Bagasse,OliveDrab3
-CRP001,Maize,green
-CRP002,Sugarcane,yellow2
-CTL,Cattle Heads,orange red
-DSL,Diesel,IndianRed3
-ELC001,Electricity_generation,CadetBlue3
-ELC002,Electricity_demand,CadetBlue
+BAG,Bagasse,olivedrab
+BEF,Cattle meat,orangered
+BYPCRP002,Bagasse,yellowgreen
+CRP001,Maize,orange
+CRP002,Sugarcane,greenyellow
+CTL,Cattle Heads,orangered
+DSL,Diesel,indianred
+ELC001,Electricity_generation,darkturquoise
+ELC002,Electricity_demand,cadetblue
 FORSTK,Forest stock,green
-GAS,Natural Gas,SteelBlue4
-GSL,Gasoline,brown2
-HYD,Hydro energy,DeepSkyBlue1
+GAS,Natural Gas,steelblue
+GSL,Gasoline,brown
+HYD,Hydro energy,darkblue
 LND,Land resource,green
 LND001,Land resource demand,green
-LNDAGR,Agricultural land,DarkOliveGreen1
-LNDCRP,Cropland_commodity,DarkOliveGreen3
-PRDCRP002,Sugar,azure2
+LNDAGR,Agricultural land,lightgreen
+LNDCRP,Cropland_commodity,darkseagreen
+PRDCRP002,Sugar,linen
 SOL,Solar energy,yellow
-WAT001,Water to supply,turquoise
-WAT002,Water demand,blue
-WATAGR,Water for agriculture,teal
-WATELC,Water for electricity accumulated,aquamarine
-WATEVT,Evapotranspiration,plum
-WATGRD,Groundwater recharge,yellowgreen
+WAT001,Water to supply,mediumblue
+WAT002,Water demand,cornflowerblue
+WATAGR,Water for agriculture,aquamarine
+WATELC,Water for electricity accumulated,mediumaquamarine
+WATEVT,Evapotranspiration,turquoise
+WATGRD,Groundwater recharge,midnightblue
 WATPRC,Precipitation,blue
-WATSUR,sur_water_commodity,lime
-WND,Wind energy,purple
-WOO,Fuelwood,brown
-AGRCRP001,Cropland,green
-AGRPST001,Pastures_low_productivity,blue
-AGRPST002,Pastures_high_productivity,blue
-DUMBEF001,Dummy Cattle meat,brown
-DUMBLT,Dummy Land Resource,teal
-DUMCRP001,Dummy Maize,brown
-DUMELC002,Dummy Electricity,magenta
-DUMPRDCRP002,Dummy Sugar,green
-DUMWAT002,Dummy Water,azure
-DUMWOO001,Dummy Fuelwood,red
+WATSUR,sur_water_commodity,mediumblue
+WND,Wind energy,mediumpurple
+WOO,Fuelwood,chocolate
+AGRCRP001,Cropland,yellowgreen
+AGRPST001,Pastures_low_productivity,khaki
+AGRPST002,Pastures_high_productivity,darkkhaki
+DUMBEF001,Dummy Cattle meat,pink
+DUMBLT,Dummy Land Resource,lightcoral
+DUMCRP001,Dummy Maize,salmon
+DUMELC002,Dummy Electricity,red
+DUMPRDCRP002,Dummy Sugar,coral
+DUMWAT002,Dummy Water,darkred
+DUMWOO001,Dummy Fuelwood,saddlebrown
 FORWOO001,Wood from forests,brown
-IMPDSL001,Diesel imports,red
-IMPGSL001,Gasoline imports,brown
-LNDAGR001,Land for agriculture,gold
-LNDBLT001,Built-up land,orange
-LNDCRP001I,Maize under irrigation,salmon
-LNDCRP001R,Maize rainfed,green
-LNDCRP002I,Sugarcane under irrigation,gold
-LNDCRP002R,Sugarcane rainfed,magenta
-LNDFOR001,Land with Forests,olive
-LNDOTH001,Other land,PaleGoldenrod
-MINGAS001,Gas extraction,lightcyan
-MINHYD001,Hydropower,grey
+IMPDSL001,Diesel imports,maroon
+IMPGSL001,Gasoline imports,crimson
+LNDAGR001,Land for agriculture,palegreen
+LNDBLT001,Built-up land,lightgrey
+LNDCRP001I,Maize under irrigation,darkgoldenrod
+LNDCRP001R,Maize rainfed,goldenrod
+LNDCRP002I,Sugarcane under irrigation,limegreen
+LNDCRP002R,Sugarcane rainfed,mediumspringgreen
+LNDFOR001,Land with Forests,forestgreen
+LNDOTH001,Other land,palegoldenrod
+MINGAS001,Gas extraction,steelblue
+MINHYD001,Hydropower,darkblue
 MINLND001,Land Resource,green
 MINPRC001,Precipitation,blue
-MINSOL001,Solar energy,grey
-MINWND001,Wind energy,purple
+MINSOL001,Solar energy,yellow
+MINWND001,Wind energy,mediumpurple
 PRCBAG001,Bagasse accounting,olivedrab
-PRCCRP002,Sugar processing plant,palegreen
-PRCCTL001,Meat processing pland,orange red
-PWRBIO001,Biomass power plant,green
+PRCCRP002,Sugar processing plant,linen
+PRCCTL001,Meat processing pland,orangered
+PWRBIO001,Biomass power plant,darkolivegreen
 PWRDSL001,Diesel power plant,brown
-PWRGAS001,Natural gas power plant,grey
-PWRHYD001,Hydropower plant,blue
+PWRGAS001,Natural gas power plant,steelblue
+PWRHYD001,Hydropower plant,darkblue
 PWRSOL001,Distributed solar PV,yellow
-PWRTRN001,Power_Transmission,black
-PWRWND001,Wind farm,magenta
-WATAGR001,Water for agriculture,lightblue
-WATELC001,water for electricity generation,aqua
-WATEVT001,Evapotranspiration_tech,plum
-WATGRD001,Groundwater recharge_tech,yellowgreen
-WATSUR001,Surface_water_tech,lime
-WATTRN001,Water supply system,salmon
-CO2EQ,CO2-eq,salmon
+PWRTRN001,Power_Transmission,lightslategrey
+PWRWND001,Wind farm,mediumpurple
+WATAGR001,Water for agriculture,aquamarine
+WATELC001,Water for electricity,mediumaquamarine
+WATEVT001,Evapotranspiration_tech,turquoise
+WATGRD001,Groundwater recharge_tech,midnightblue
+WATSUR001,Surface_water_tech,mediumblue
+WATTRN001,Water supply system,steelblue
+CO2EQ,CO2-eq,silver
